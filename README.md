@@ -1,4 +1,4 @@
-# Landing Page: Stranger Things
+# [Landing Page: Stranger Things](https://renan1102.github.io/landing-page-mundo-invertido/) <-
 
 Este projeto é uma landing page interativa, desenvolvida como estudo para aprimorar habilidades em HTML, CSS e JavaScript, inspirada na popular série Stranger Things.
 A página foi projetada para capturar a atmosfera misteriosa e retrô da série, oferecendo uma experiência imersiva aos visitantes.
